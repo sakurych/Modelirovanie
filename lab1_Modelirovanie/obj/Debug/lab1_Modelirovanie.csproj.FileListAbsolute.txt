@@ -1,0 +1,15 @@
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\bin\Debug\lab1_Modelirovanie.exe.config
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\bin\Debug\lab1_Modelirovanie.exe
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\bin\Debug\lab1_Modelirovanie.pdb
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\obj\Debug\lab1_Modelirovanie.csproj.AssemblyReference.cache
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\obj\Debug\lab1_Modelirovanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\obj\Debug\lab1_Modelirovanie.csproj.CoreCompileInputs.cache
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\obj\Debug\lab1_Modelirovanie.exe
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\obj\Debug\lab1_Modelirovanie.pdb
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\bin\Debug\EPPlus.dll
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\bin\Debug\EPPlus.xml
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Sakurych\source\repos\lab1_Modelirovanie\lab1_Modelirovanie\obj\Debug\lab1_Modelirovanie.csproj.CopyComplete
